@@ -34,10 +34,10 @@ CRUD işlemleriyle ürün ve kategori yönetimi yaparak veritabanı üzerinde di
 Bu projede Entity Framework kullanarak seyahat veritabanındaki bilgileri sorgulayıp Windows Forms ile görselleştiren bir istatistik paneli geliştirdim. 💻
 
 Öne çıkan özellikler:
-✔️ Toplam lokasyon, kapasite ve rehber sayısı gibi genel bilgilerin hesaplanması.
-✔️ Ortalama kapasite ve fiyat gibi istatistiksel verilerin gösterilmesi.
-✔️ Şehir veya ülkeye göre özel filtreleme yapılması.
-✔️ Maksimum kapasite ve fiyat değerine sahip şehirlerin tespit edilmesi.
-✔️ Rehberlerin sorumlu olduğu tur sayılarının hesaplanması.
+- ✔️ Toplam lokasyon, kapasite ve rehber sayısı gibi genel bilgilerin hesaplanması.
+- ✔️ Ortalama kapasite ve fiyat gibi istatistiksel verilerin gösterilmesi.
+- ✔️ Şehir veya ülkeye göre özel filtreleme yapılması.
+- ✔️ Maksimum kapasite ve fiyat değerine sahip şehirlerin tespit edilmesi.
+- ✔️ Rehberlerin sorumlu olduğu tur sayılarının hesaplanması.
 ![](https://github.com/omerayilmazdir/CSharpEgitimKampi/blob/master/csharpegitim_case3.PNG)
 
