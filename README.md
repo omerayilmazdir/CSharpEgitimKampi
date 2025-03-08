@@ -39,5 +39,7 @@ Bu projede Entity Framework kullanarak seyahat veritabanındaki bilgileri sorgul
 - ✔️ Şehir veya ülkeye göre özel filtreleme yapılması.
 - ✔️ Maksimum kapasite ve fiyat değerine sahip şehirlerin tespit edilmesi.
 - ✔️ Rehberlerin sorumlu olduğu tur sayılarının hesaplanması.
+
+
 ![](https://github.com/omerayilmazdir/CSharpEgitimKampi/blob/master/csharpegitim_case3.PNG)
 
